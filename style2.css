@@ -1,0 +1,69 @@
+.myfont{
+    font-family: 'Raleway',sans-serif;
+}
+
+.signup-button {
+    color: white;
+          padding: 10px 40px;
+          border-radius: 5px;
+          background: #812250;
+          background: -webkit-linear-gradient(to right,#4e3737,#eb1313);
+          background: linear-gradient(to right,#6e6060,#f70525);
+          box-shadow: 0 10px 10px -2px rgba(0,0,0,.25);
+          cursor:pointer;
+          border: 0 !important;
+          border-radius: 25px;
+}
+
+.get-startted-button{
+    color: white;
+          padding: 15px 50px;
+          border-radius: 5px;
+          background: #812250;
+          background: -webkit-linear-gradient(to right,#4e3737,#eb1313);
+          background: linear-gradient(to right,#6e6060,#f70525);
+          box-shadow: 0 10px 10px -2px rgba(0,0,0,.25);
+          cursor:pointer;
+          border: 0 !important;
+          border-radius: 25px;
+
+}
+
+.simple-curve-buttons{
+    border: 0 !important;
+    padding: 15px 50px;
+    border-radius: 25px;;
+}
+
+.learn-more-button{
+    border-color: #f70525;
+    padding: 10px 40px;
+    border-radius: 25px;
+    
+}
+
+.highlighted-text{
+    font-family: 'Raleway',sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    font-stretch: expanded;
+    line-height: 1.7;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.normal-text{
+    font-size :small;
+    font-stretch: expanded;
+    font-weight: 400;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 1.7;
+    font-family: 'Raleway',sans-serif;
+}
+
+.smaller-text{
+    font-size: small;
+    line-height: 1.5;
+}
+
